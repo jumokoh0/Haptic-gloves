@@ -17,7 +17,7 @@ The goal of this project is to limit finger movement to VR.
     ------------------------
 
     -It uses an Arduino and a variable resistor to measure the position of the finger.
-    
+
     ----------------------
 
     + Assembly modelling
@@ -25,3 +25,7 @@ The goal of this project is to limit finger movement to VR.
     ![assemble](https://github.com/jumokoh0/Haptic-gloves/blob/master/image/assemble.PNG?raw=true)
 
 ----------------------
++ Result
+-video(no brake)
+<https://youtu.be/1YtaGusoLUU>
+
