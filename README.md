@@ -26,6 +26,6 @@ The goal of this project is to limit finger movement to VR.
 
 ----------------------
 + Result
--video(no brake)
+-video(no braking)
 <https://youtu.be/1YtaGusoLUU>
 
